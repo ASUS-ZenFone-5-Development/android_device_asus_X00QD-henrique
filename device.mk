@@ -215,10 +215,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libshim_dpmframework
 
-# Vibrator
-PRODUCT_PACKAGES += \
-    vendor.qti.hardware.vibrator.service
-
 # DRM
 PRODUCT_PACKAGES += \
     android.hardware.drm@1.0-impl \
